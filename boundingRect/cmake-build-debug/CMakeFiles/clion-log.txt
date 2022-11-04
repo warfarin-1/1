@@ -1,0 +1,17 @@
+/snap/clion/209/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/209/bin/ninja/linux/ninja -G Ninja -S "/home/error/opencv practice/test" -B "/home/error/opencv practice/test/cmake-build-debug"
+
+[CONFIG]   Executable      true
+[CONFIG]   LIBRARY_TYPE      STATIC
+[CONFIG]   Debug           true
+[CONFIG]   Optimization    2
+[CONFIG]   Dependencies    
+[CONFIG]   Language Level  14
+
+[PACKAGE]  Threads         false
+[PACKAGE]  Eigen           false
+[PACKAGE]  OpenCV          true
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/error/opencv practice/test/cmake-build-debug
