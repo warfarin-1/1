@@ -1,3 +1,0 @@
-/home/error/opencv practice/armor/cmake-build-debug/CMakeFiles/dome.dir
-/home/error/opencv practice/armor/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/error/opencv practice/armor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
